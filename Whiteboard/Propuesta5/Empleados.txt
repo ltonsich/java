@@ -1,0 +1,9 @@
+Ana,Benítez,11-09-1991,1000.01
+Carlos,Díaz,23-04-1992,2000.02
+Ema,Fernández,10-03-1993,3000.03
+Gabriel,Heinz,05-09-1994,4000.04
+Irma,Jimenez,10-02-1995,5000.05
+Karen,Lugo,07-04-1996,6000.06
+Mario,Nieto,16-10-1997,7000.07
+Olga,Pérez,22-05-1998,8000.08
+Quico,Ramírez,18-09-1999,9000.09
